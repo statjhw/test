@@ -1,0 +1,2 @@
+1. introduction
+2. ls, ls -a, ls -al, clear, touch, rm (linux 명령어)
